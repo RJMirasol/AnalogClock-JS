@@ -1,2 +1,2 @@
 # AnalogClock-JS
-Simple analog clock using Canvas APO
+Simple analog clock using Canvas API
